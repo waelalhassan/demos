@@ -15,3 +15,6 @@ https://waelalhassan.github.io/WAN-Digital/
 
 # Easybank-landing-page
 https://waelalhassan.github.io/Easybank-landing-page/
+
+# Vibo (not responsive with mobile)
+https://waelalhassan.github.io/Vibo/
